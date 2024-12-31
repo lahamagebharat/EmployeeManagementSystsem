@@ -1,4 +1,4 @@
-package EmployeemanagementJPWwithoutspringboot.Entity;
+package EmployeemanagementJPAwithoutspringboot.Entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

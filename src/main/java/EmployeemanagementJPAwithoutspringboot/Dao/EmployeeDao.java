@@ -1,10 +1,10 @@
-package EmployeemanagementJPWwithoutspringboot.Dao;
+package EmployeemanagementJPAwithoutspringboot.Dao;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
-import EmployeemanagementJPWwithoutspringboot.Entity.Employee;
+import EmployeemanagementJPAwithoutspringboot.Entity.Employee;
 
 public class EmployeeDao {
 	
