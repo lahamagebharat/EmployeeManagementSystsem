@@ -20,7 +20,7 @@ public class EmployeeController {
 //		Employee msg3 = o.getData(4);
 //		System.out.println(msg3);
 //		
-//		// 4.DeleteData
+//		 4.DeleteData
 		String msg4=o.deleteData(4);
 		System.out.println(msg4);
 
